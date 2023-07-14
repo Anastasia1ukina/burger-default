@@ -51,6 +51,8 @@ body {
     font-size: 64px;
     text-align: center;
     text-transform: uppercase;
+    line-height: 80px;
+    letter-spacing: 0.03em;
 }
 
 .main {
@@ -199,6 +201,7 @@ body {
     padding: 30px;
     background: #211a16;
     border-radius: 16px;
+    border: 1px solid #353535;
 }
 
 .products-item-image {
